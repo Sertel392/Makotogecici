@@ -46,7 +46,7 @@
     "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
-    "status": 0,
+    "status": 1,
     "language": "tr",
     "authors": [
       "Makoto Tokioki"
@@ -56,7 +56,7 @@
     ],
     "version": 14,
     "internalName": "DiziPal",
-    "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
+    "description": "en yeni dizileri g\u00fcvenli ve h\u0131zl\u0131 \u015fekilde sunar.",
     "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
     "name": "DiziPal"
   },
@@ -119,9 +119,9 @@
         "name": "YerelDiziler"
     },
   {
-        "iconUrl": "https://seeklogo.com/images/T/tabii-logo-60B8BC0D5D-seeklogo.com.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddizi.im&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+        "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
         "status": 1,
         "language": "tr",
         "authors": [
@@ -132,10 +132,10 @@
             "TvSeries"
         ],
         "version": 9,
-        "internalName": "Tabii",
-        "description": "Tabii i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
-        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Tabii.cs3",
-        "name": "Tabii"
+        "internalName": "DDizi",
+        "description": "DDizi i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
+        "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DDizi.cs3",
+        "name": "DDizi"
     },
   {
         "iconUrl": "https://cizgivedizi.com/Logo.png",
