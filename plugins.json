@@ -17,7 +17,7 @@
     "version": 15,
     "internalName": "InatBox",
     "description": "İnatBox cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/InatBox.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/InatBox.cs3",
     "name": "InatBox"
   },
   {
@@ -39,7 +39,7 @@
     "version": 1,
     "internalName": "RecTV",
     "description": "RecTv APK, Türkiye’deki en popüler Çevrimiçi Medya Akış platformlarından biridir. Filmlerin, Canlı Sporların, Web Dizilerinin ve çok daha fazlasının keyfini ücretsiz çıkarın.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/RecTV.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/RecTV.cs3",
     "name": "RecTV"
   },
   {
@@ -57,7 +57,7 @@
     "version": 14,
     "internalName": "GolgeTV",
     "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/GolgeTV.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/GolgeTV.cs3",
     "name": "GolgeTV"
   },
   {
@@ -76,7 +76,7 @@
     "version": 11,
     "internalName": "AnimeciX",
     "description": "AnimeciX, animeleri keşfedebileceğiniz ve animeler hakkında her şeyi öğrenebileceğiniz bir paylaşım platformudur.",
-    "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AnimeciX.cs3",
+    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AnimeciX.cs3",
     "name": "AnimeciX"
   },
   {
@@ -96,7 +96,7 @@
         "version": 16,
         "internalName": "SineWix",
         "description": "Sinewix | \u00dccretsiz Film - Dizi - Anime \u0130zleme Uygulamas\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SineWix.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/SineWix.cs3",
         "name": "SineWix"
     },
   {
@@ -115,7 +115,7 @@
         "version": 14,
         "internalName": "YerelDiziler",
         "description": "Bu eklentide yerel dizileri g\u00fcncel \u015fekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelDiziler.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelDiziler.cs3",
         "name": "YerelDiziler"
     },
   {
@@ -134,7 +134,7 @@
         "version": 9,
         "internalName": "Tabii",
         "description": "Tabii i\u00e7eriklerine bu eklenti sayesinde eri\u015febilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Tabii.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Tabii.cs3",
         "name": "Tabii"
     },
   {
@@ -152,7 +152,7 @@
         "version": 3,
         "internalName": "CizgiVeDizi",
         "description": "Pop\u00fcler \u00e7izgi film ve dizilerin T\u00fcrk\u00e7e g\u00fcncel kayna\u011f\u0131.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CizgiVeDizi.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CizgiVeDizi.cs3",
         "name": "CizgiVeDizi"
     },
   {
@@ -170,7 +170,7 @@
         "version": 4,
         "internalName": "CanliTv",
         "description": "Ulusal kanallar\u0131 bu eklentide izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/CanliTv.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/CanliTv.cs3",
         "name": "CanliTv"
     },
   {
@@ -191,7 +191,7 @@
         "version": 2,
         "internalName": "WebDramaTurkey",
         "description": "Asya i\u00e7eriklerinin tek adresi.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/WebDramaTurkey.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/WebDramaTurkey.cs3",
         "name": "WebDramaTurkey"
     },
   {
@@ -210,7 +210,7 @@
         "version": 2,
         "internalName": "TorrentFilm",
         "description": "T\u00fcrk\u00e7e altyaz\u0131l\u0131 torrentleri buradan 4K kalitesinde izleyebilirsiniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/TorrentFilm.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/TorrentFilm.cs3",
         "name": "TorrentFilm"
     },
   {
@@ -230,7 +230,7 @@
         "version": 8,
         "internalName": "Dizilla",
         "description": "Dizilla t\u00fcm yabanc\u0131 dizileri \u00fccretsiz olarak T\u00fcrk\u00e7e Dublaj ve altyaz\u0131l\u0131 se\u00e7enekleri ile 1080P kalite izleyebilece\u011finiz yeni nesil yabanc\u0131 dizi izleme siteniz.",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Dizilla.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Dizilla.cs3",
         "name": "Dizilla"
     },
   {
@@ -248,7 +248,7 @@
         "version": 1,
         "internalName": "YerelProgramlar",
         "description": "Yerel programlar\u0131 g\u00fcncel \u015fekilde bulabilirsiniz",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/YerelProgramlar.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/YerelProgramlar.cs3",
         "name": "YerelProgramlar"
     },
   {
@@ -266,7 +266,7 @@
         "version": 8,
         "internalName": "SSportPlus",
         "description": "SSport+ canlı yayınları ve arşiv içerikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/SSportPlus.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/SSportPlus.cs3",
         "name": "SSportPlus"
     },
   {
@@ -286,7 +286,7 @@
         "version": 1,
         "internalName": "AsyaWatch",
         "description": "AsyaWatch.com",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaWatch.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaWatch.cs3",
         "name": "AsyaWatch"
     },
   {
@@ -304,7 +304,7 @@
         "version": 2,
         "internalName": "AsyaAnimeleri",
         "description": "AsyaAnimeleri.top",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaAnimeleri.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaAnimeleri.cs3",
         "name": "AsyaAnimeleri"
     },
   {
@@ -322,7 +322,7 @@
         "version": 1,
         "internalName": "Kanal 7",
         "description": "Hint, Pakistan ve T\u00fcrk dizilerinin adresi",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Kanal 7.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Kanal 7.cs3",
         "name": "Kanal 7"
     },
   {
@@ -340,7 +340,7 @@
         "version": 3,
         "internalName": "Exxen",
         "description": "Exxen Full",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Exxen.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Exxen.cs3",
         "name": "Exxen"
     },
       {
@@ -358,7 +358,7 @@
         "version": 1,
         "internalName": "Puhu",
         "description": "Puhu",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Puhu.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Puhu.cs3",
         "name": "Puhu"
     },
   {
@@ -376,7 +376,7 @@
         "version": 2,
         "internalName": "AsyaFilmIzlesene",
         "description": "Hint, Kore Filmleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/AsyaFilmIzlesene.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/AsyaFilmIzlesene.cs3",
         "name": "AsyaFilmIzlesene"
     },
    {
@@ -394,7 +394,7 @@
         "version": 1,
         "internalName": "Gain",
         "description": "Gain i\u00e7erikleri",
-        "url": "https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/Gain.cs3",
+        "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/Gain.cs3",
         "name": "Gain"
     }
 ]
