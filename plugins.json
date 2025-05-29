@@ -43,9 +43,9 @@
     "name": "RecTV"
   },
   {
-    "iconUrl": "https://www.apkdelisi.net/wp-content/uploads/2022/03/golge-tv-reklamsiz-mod-apk-canli-tv-apkdelisi-0.jpg",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dizipal683.com&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler",
+    "repositoryUrl": "https://github.com/nikyokki/nik-cloudstream",
     "status": 0,
     "language": "tr",
     "authors": [
@@ -55,10 +55,10 @@
       "Live"
     ],
     "version": 14,
-    "internalName": "GolgeTV",
+    "internalName": "DiziPal",
     "description": "GolgeTV cloudstream eklentisidir. Sevdiğiniz yayın platformlarını ve canlı maçları burada bulabilirsiniz.",
-    "url": "https://raw.githubusercontent.com/Sertel392/Makotogecici/main/GolgeTV.cs3",
-    "name": "GolgeTV"
+    "url": "https://raw.githubusercontent.com/nikyokki/nik-cloudstream/builds/DiziPal.cs3",
+    "name": "DiziPal"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=animecix.net&sz=%size%",
