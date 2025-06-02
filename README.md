@@ -1,6 +1,7 @@
 # Makoto'nun Cloudstream Türkçe Eklentileri
 
-Deponun kısa kodu: **makoto**
+Deponun kısa kodu: **makoto2**
+makoto ile hiçbir alakası olmayan bir eklenti deposu Latte ye tşkler kısakod icin. ayrıca nikyokki ve kekikan a da tşkler 
 
 <img src="https://raw.githubusercontent.com/MakotoTokioki/Cloudstream-Turkce-Eklentiler/main/assets/persona-3-makoto-3393384685hh.gif" width="100%" />
 
